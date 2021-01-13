@@ -4,7 +4,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="bnlearn2py-pedrovbj",
+    name="bnlearn2py",
     version="0.0.1",
     author="Pedro V. B. Jeronymo",
     author_email="pedrovbj@gmail.com",
